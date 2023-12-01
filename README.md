@@ -1,1 +1,1 @@
-# muscle-wrapping
+# muscle/ligament-wrapping
